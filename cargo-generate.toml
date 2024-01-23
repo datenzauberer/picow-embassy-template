@@ -1,0 +1,4 @@
+[placeholders.wifi_enabled]
+type = "bool"
+prompt = "Dow you want to use the Wifi-Stack (of Infineon cyw43) ?"
+default = false
